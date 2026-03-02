@@ -3,7 +3,7 @@
 A machine learning web application that predicts the species of an Iris flower using a **Decision Tree Classifier**, built with Python and deployed via Streamlit.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.54-red?logo=streamlit)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4.1-orange?logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -11,14 +11,13 @@ A machine learning web application that predicts the species of an Iris flower u
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](#) ← *(Replace with your Streamlit link after deploying)*
-
+[Iris Flower Species Classifier - Iris Lens](https://iris-lens.streamlit.app/)
 ---
 ## ScreenShots
-![1.png](images/1.png)
-![2.png](images/2.png)
-![3.png](images/3.png)
-![4.png](images/4.png)
+* ![1.png](images/1.png)git 
+* ![2.png](images/2.png)
+* ![3.png](images/3.png)
+* ![4.png](images/4.png)
 ---
 ## 📌 About
 
