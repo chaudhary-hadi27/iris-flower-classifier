@@ -111,10 +111,3 @@ The **Iris Dataset** is one of the most well-known datasets in machine learning,
 
 **Your Name**
 - GitHub: [@chaudhary-hadi27](https://github.com/chaudhary-hadi27)
-- X: [@ChaudharyHadi27](https://x.com/ChaudharyHadi27)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.# iris-flower-classifier
